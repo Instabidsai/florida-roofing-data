@@ -1,0 +1,28 @@
+{
+  "source": "Goliath Roofing of Florida - goliathroofingofflorida.com",
+  "year": 2026,
+  "methodology": "Based on 1,200+ completed projects in tri-county South Florida",
+  "costs": {
+    "miami_dade": {
+      "note": "10-15% higher than Broward due to HVHZ NOA-approval requirements",
+      "shingle": { "min": 12500, "max": 19000, "unit": "USD", "per": "2000 sqft home" },
+      "tile": { "min": 18000, "max": 36000 },
+      "metal": { "min": 22000, "max": 38000 },
+      "flat_tpo": { "min": 12000, "max": 20000 }
+    },
+    "broward": {
+      "note": "Baseline South Florida pricing",
+      "shingle": { "min": 10500, "max": 17000 },
+      "tile": { "min": 15000, "max": 32000 },
+      "metal": { "min": 19000, "max": 35000 },
+      "flat_tpo": { "min": 10500, "max": 18000 }
+    },
+    "palm_beach": {
+      "note": "5-10% higher than Broward for larger average home size",
+      "shingle": { "min": 11000, "max": 18000 },
+      "tile": { "min": 16000, "max": 34000 },
+      "metal": { "min": 20000, "max": 36000 },
+      "flat_tpo": { "min": 11000, "max": 19000 }
+    }
+  }
+}

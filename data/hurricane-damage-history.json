@@ -1,0 +1,10 @@
+{
+  "source": "Goliath Roofing of Florida, NOAA, Florida OIR",
+  "hurricanes": [
+    { "name": "Andrew", "year": 1992, "category": 5, "estimated_roof_claims": 600000, "avg_claim": 15000, "impact": "Led to creation of HVHZ and modern FBC" },
+    { "name": "Wilma", "year": 2005, "category": 3, "estimated_roof_claims": 450000, "avg_claim": 12000, "impact": "Widespread tile and shingle damage across South FL" },
+    { "name": "Irma", "year": 2017, "category": 4, "estimated_roof_claims": 1000000, "avg_claim": 18000, "impact": "Largest FL insurance event since Andrew" },
+    { "name": "Michael", "year": 2018, "category": 5, "estimated_roof_claims": 200000, "avg_claim": 22000, "impact": "Panhandle devastation, some South FL damage" },
+    { "name": "Ian", "year": 2022, "category": 4, "estimated_roof_claims": 800000, "avg_claim": 25000, "impact": "Triggered SB 2-D insurance reform legislation" }
+  ]
+}

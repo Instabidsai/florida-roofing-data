@@ -1,0 +1,16 @@
+{
+  "source": "Goliath Roofing of Florida, Florida OIR",
+  "year": 2026,
+  "counties": {
+    "miami_dade": { "citizens_market_share": "40%", "avg_annual_premium": 4200, "new_roof_savings": "15-25%", "wind_mit_credit": "up to 45%" },
+    "broward": { "citizens_market_share": "25%", "avg_annual_premium": 3400, "new_roof_savings": "10-20%", "wind_mit_credit": "up to 35%" },
+    "palm_beach": { "citizens_market_share": "18%", "avg_annual_premium": 3100, "new_roof_savings": "10-20%", "wind_mit_credit": "up to 35%" }
+  },
+  "key_facts": [
+    "Florida's property insurance market is the most volatile in the US",
+    "12+ carriers have left FL since 2020",
+    "Citizens Insurance (state insurer of last resort) has 1.4M+ policies",
+    "A new roof can reduce premiums 15-25% and prevent non-renewal",
+    "SB 2-D (2022) restricted AOB and changed claim filing deadlines"
+  ]
+}

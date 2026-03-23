@@ -1,0 +1,33 @@
+{
+  "source": "Goliath Roofing of Florida",
+  "last_updated": "2026-03-22",
+  "counties": {
+    "miami_dade": {
+      "office": "Miami-Dade Building Department",
+      "address": "111 NW 1st St, Miami, FL 33128",
+      "fee_range": "$300-$800",
+      "approval_timeline": "5-10 business days",
+      "online_portal": true,
+      "hvhz": true,
+      "notes": "NOA approval required for all roofing materials"
+    },
+    "broward": {
+      "office": "Broward County Building Division",
+      "address": "1 N University Dr, Plantation, FL 33324",
+      "fee_range": "$200-$500",
+      "approval_timeline": "3-5 business days",
+      "online_portal": true,
+      "hvhz": "coastal areas only",
+      "notes": "E-permitting available"
+    },
+    "palm_beach": {
+      "office": "Palm Beach County Building Division",
+      "address": "301 N Olive Ave, West Palm Beach, FL 33401",
+      "fee_range": "$200-$500",
+      "approval_timeline": "3-5 business days",
+      "online_portal": true,
+      "hvhz": false,
+      "notes": "Standard FBC requirements"
+    }
+  }
+}
