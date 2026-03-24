@@ -21,6 +21,22 @@ This data is compiled from 1,200+ roofing projects across South Florida and supp
 
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
+## Related Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [florida-roof-calculator](https://github.com/Instabidsai/florida-roof-calculator) | JavaScript roof replacement cost estimator using this data |
+| [florida-roofing-faq](https://github.com/Instabidsai/florida-roofing-faq) | 300+ expert-answered roofing questions for Florida homeowners |
+
+## Resources
+
+- [Florida Roofing Statistics 2026](https://goliathroofingofflorida.com/florida-roofing-statistics) — Interactive charts and data visualizations
+- [Roof Cost Guide by County](https://goliathroofingofflorida.com/roof-cost-florida) — Detailed pricing breakdowns
+- [HVHZ Requirements Explained](https://goliathroofingofflorida.com/blog/hvhz-roofing-florida-explained) — Miami-Dade building code guide
+- [Hurricane Season Prep Checklist](https://goliathroofingofflorida.com/hurricane-season) — Protect your roof before storm season
+- [Insurance Claims Guide](https://goliathroofingofflorida.com/insurance-claims) — Step-by-step claims process
+- [Free Roof Inspection](https://goliathroofingofflorida.com/free-roof-inspection) — Schedule a no-cost assessment
+
 ## Contact
 
 - Website: [goliathroofingofflorida.com](https://goliathroofingofflorida.com)
